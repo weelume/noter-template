@@ -1,0 +1,1 @@
+export const brand={name:{zh:'Noter 手记',en:'noter'},logo:'/templates/noter/logo.svg',year:2026,portrait:'/templates/noter/images/bJAjGRG8muqLCoRaCMWKWuYQgI.jpg'} as const;

@@ -1,0 +1,194 @@
+[
+  {
+    "path": "/",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/about",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/contact",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/terms",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/categories/design",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/categories/experience",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/categories/development",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/posts/choosing-between-qual-and-quant-research",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/posts/do-users-really-hate-change",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/posts/five-fixes-for-better-sticky-headers",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/posts/guide-remote-ux-collaboration",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/posts/hiding-interaction-delays-with-progress-indicators",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/posts/how-to-write-cancellation-emails",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/posts/the-principle-of-contrast-in-ui-design",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/posts/three-myths-about-the-roi-of-ux",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/posts/what-the-best-intranets-get-right",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/about",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/contact",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/terms",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/categories/design",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/categories/experience",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/categories/development",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/posts/choosing-between-qual-and-quant-research",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/posts/do-users-really-hate-change",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/posts/five-fixes-for-better-sticky-headers",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/posts/guide-remote-ux-collaboration",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/posts/hiding-interaction-delays-with-progress-indicators",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/posts/how-to-write-cancellation-emails",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/posts/the-principle-of-contrast-in-ui-design",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/posts/three-myths-about-the-roi-of-ux",
+    "status": 200,
+    "main": true,
+    "error": false
+  },
+  {
+    "path": "/en/posts/what-the-best-intranets-get-right",
+    "status": 200,
+    "main": true,
+    "error": false
+  }
+]

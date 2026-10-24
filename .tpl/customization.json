@@ -1,0 +1,117 @@
+{
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌",
+      "description": "修改后验证对应双语页面及设备",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/noter/config/brand.ts",
+          "kind": "file",
+          "purpose": "品牌"
+        }
+      ],
+      "constraints": [
+        "保持双语和无障碍",
+        "禁止静默外发或存储演示表单",
+        "不新增未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "双语内容",
+      "description": "修改后验证对应双语页面及设备",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/noter/content",
+          "kind": "directory",
+          "purpose": "双语内容"
+        }
+      ],
+      "constraints": [
+        "保持双语和无障碍",
+        "禁止静默外发或存储演示表单",
+        "不新增未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "主题",
+      "description": "修改后验证对应双语页面及设备",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/noter/theme.css",
+          "kind": "file",
+          "purpose": "主题"
+        }
+      ],
+      "constraints": [
+        "保持双语和无障碍",
+        "禁止静默外发或存储演示表单",
+        "不新增未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test"
+      ]
+    },
+    {
+      "id": "pages",
+      "title": "页面组合",
+      "description": "修改后验证对应双语页面及设备",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/noter/pages",
+          "kind": "directory",
+          "purpose": "页面组合"
+        }
+      ],
+      "constraints": [
+        "保持双语和无障碍",
+        "禁止静默外发或存储演示表单",
+        "不新增未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test"
+      ]
+    },
+    {
+      "id": "components",
+      "title": "公共交互",
+      "description": "修改后验证对应双语页面及设备",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/noter/components",
+          "kind": "directory",
+          "purpose": "公共交互"
+        }
+      ],
+      "constraints": [
+        "保持双语和无障碍",
+        "禁止静默外发或存储演示表单",
+        "不新增未批准依赖"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test"
+      ]
+    }
+  ],
+  "$schema": "./schemas/customization.schema.json"
+}

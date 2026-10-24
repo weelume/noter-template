@@ -1,0 +1,55 @@
+{
+  "checkedAt": "2026-10-24T11:53:34.821Z",
+  "checks": [
+    {
+      "name": "32条双语HTTP路由",
+      "status": "passed",
+      "routes": 32
+    },
+    {
+      "name": "PC搜索",
+      "status": "passed",
+      "initial": 9,
+      "query": "取消邮件",
+      "matches": 1
+    },
+    {
+      "name": "H5联系表单",
+      "status": "passed",
+      "feedback": "校验通过，未发送、未保存"
+    },
+    {
+      "name": "iPad联系页",
+      "status": "passed",
+      "width": 834,
+      "overflow": false,
+      "canvas": true,
+      "visibleErrors": []
+    },
+    {
+      "name": "H5联系页",
+      "status": "passed",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "canvas": [
+        327,
+        320
+      ]
+    },
+    {
+      "name": "320px菜单与导航",
+      "status": "passed",
+      "width": 320,
+      "destination": "/about",
+      "dialogsAfterNavigation": 0,
+      "overflow": false
+    }
+  ],
+  "limitations": [
+    "完整中英文三端全路由浏览器矩阵未执行",
+    "全站原站三端动效逐帧对照未完成",
+    "语言切换查询及锚点单元合同通过，浏览器验证待补",
+    "独立开发服务有Next跨来源提示，初始localhost连接失败日志已按来源隔离"
+  ]
+}

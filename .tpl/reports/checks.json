@@ -1,0 +1,68 @@
+{
+  "checkedAt": "2026-10-24T11:50:08.627Z",
+  "environment": {
+    "platform": "linux",
+    "node": "v24.16.0",
+    "pnpm": "9.15.4",
+    "location": "local Linux filesystem"
+  },
+  "checks": [
+    {
+      "operation": "typecheck",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "typecheck"
+      ],
+      "startedAt": "2026-10-24T11:49:41.869Z",
+      "finishedAt": "2026-10-24T11:49:48.529Z",
+      "exitCode": 0,
+      "status": "passed"
+    },
+    {
+      "operation": "lint",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "lint"
+      ],
+      "startedAt": "2026-10-24T11:49:48.529Z",
+      "finishedAt": "2026-10-24T11:49:51.464Z",
+      "exitCode": 0,
+      "status": "passed"
+    },
+    {
+      "operation": "test",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "test"
+      ],
+      "startedAt": "2026-10-24T11:49:51.464Z",
+      "finishedAt": "2026-10-24T11:49:52.267Z",
+      "exitCode": 0,
+      "status": "passed"
+    },
+    {
+      "operation": "build",
+      "cwd": ".",
+      "argv": [
+        "pnpm",
+        "run",
+        "build"
+      ],
+      "startedAt": "2026-10-24T11:49:52.267Z",
+      "finishedAt": "2026-10-24T11:50:08.627Z",
+      "exitCode": 0,
+      "status": "passed"
+    }
+  ],
+  "limitations": [
+    "正式协议检查受缺少真实Git地址阻塞",
+    "完整原站三端逐帧动效对照未完成",
+    "素材商业再分发许可未确认"
+  ]
+}
