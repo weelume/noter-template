@@ -241,5 +241,6 @@
     "summary": "参考内容与图片的商业再分发许可未确认",
     "redistributionAllowed": false
   },
-  "$schema": "./schemas/template.schema.json"
+  "$schema": "./schemas/template.schema.json",
+  "gitUrl": "https://github.com/weelume/noter-template"
 }

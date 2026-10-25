@@ -1,6 +1,7 @@
 import type {SiteTemplate} from '../../types';
 export const noterTemplate:SiteTemplate={...{
   "id": "noter",
+  "gitUrl": "https://github.com/weelume/noter-template",
   "name": "Noter · 设计与开发手记",
   "localizedNames": {
     "en": "Noter · Minimal editorial blog"

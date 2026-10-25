@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-25T01:41:29.004Z",
+  "environment": "本地 WSL Ubuntu Linux 文件系统 /home/xmin/workspace/weelume-releases/release-20261025-full/noter-template",
+  "sourceDigest": "d8722a84aaddd16d182b619527d5632c3c78736429949aff6bff11047189a414",
+  "checks": [
+    {
+      "command": "pnpm install --frozen-lockfile",
+      "exitCode": 0,
+      "status": "passed"
+    },
+    {
+      "command": "pnpm typecheck",
+      "exitCode": 0,
+      "status": "passed"
+    },
+    {
+      "command": "pnpm lint",
+      "exitCode": 0,
+      "status": "passed"
+    },
+    {
+      "command": "pnpm test",
+      "exitCode": 0,
+      "status": "passed"
+    },
+    {
+      "command": "pnpm build",
+      "exitCode": 0,
+      "status": "passed"
+    },
+    {
+      "command": "node .tpl/tools/check.mjs .",
+      "exitCode": 0,
+      "status": "passed"
+    }
+  ],
+  "tests": {
+    "passed": 3,
+    "failed": 0
+  },
+  "gitUrl": "https://github.com/weelume/noter-template",
+  "limitations": [
+    "完整原站三端逐帧动效对照未完成",
+    "素材商业再分发许可未确认，保持未上架",
+    "本轮未重做浏览器交互验收，历史记录保留原时间；stage 保持 scaffold"
+  ]
+}
